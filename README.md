@@ -2,5 +2,5 @@
 kabbadi
 khokho
 cricket
-fuball
+
 halibal
